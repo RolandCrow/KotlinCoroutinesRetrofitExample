@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinCoroutinesRetrofitExample</string>
+    <string name="icon">Icon</string>
+    <string name="temp">%d%s</string>
+</resources>
